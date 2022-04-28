@@ -1,0 +1,28 @@
+html,
+body {
+    background-color: #000000;
+    color: #ffff;
+    box-sizing: border-box;
+    font-family: Source Code Pro, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+
+}
+
+#navbar {
+    position: fixed;
+    min-width: 250px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid #E900FF;
+    background-color: #5800FF;
+}
+
+#main-doc {
+    position: absolute;
+    margin-left: 350px;
+    padding: 25px;
+    margin-bottom: 100px;
+    
+
+}
