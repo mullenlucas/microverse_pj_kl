@@ -24,6 +24,7 @@ body {
 #nav-header {
     font-size: 18px;
     padding-left: 25px;
+    color: #FFC600
 }
 
 #main-doc {
@@ -53,6 +54,12 @@ body {
     margin-bottom: 60px;
     border-bottom: 4px solid #E900FF;
     margin-left: 25px;
+    text-decoration: white;
+    color:white
+}
+
+.subtitle {
+    color:#FFC600;
 }
 
 pre code{
