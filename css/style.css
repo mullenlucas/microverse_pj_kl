@@ -7,6 +7,7 @@ body {
 
 }
 
+
 #navbar {
     position: fixed;
     min-width: 250px;
@@ -16,6 +17,13 @@ body {
     height: 100%;
     border-right: solid #E900FF;
     background-color: #5800FF;
+    display: flex;
+    flex-direction: column;
+}
+
+#nav-header {
+    font-size: 18px;
+    padding-left: 25px;
 }
 
 #main-doc {
@@ -25,4 +33,10 @@ body {
     margin-bottom: 100px;
     
 
+}
+
+.nav-link {
+    margin-bottom: 60px;
+    border-bottom: 4px solid #E900FF;
+    margin-left: 25px;
 }
