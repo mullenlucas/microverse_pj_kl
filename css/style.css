@@ -54,3 +54,10 @@ body {
     border-bottom: 4px solid #E900FF;
     margin-left: 25px;
 }
+
+pre code{
+    background-color: rgb(118, 118, 118);
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
